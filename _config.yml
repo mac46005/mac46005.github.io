@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      "https://github.com/mac46005" # url:
+      url: "https://github.com/mac46005" # url:
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
       # url:
