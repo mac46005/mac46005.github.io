@@ -30,12 +30,13 @@ I'm always looking to expand on my skill set and learn new technologies to tackl
 
 Programming allows me to solve complex problems and continously challenge myself. I love the process of breaking down problems into smaller, manageable pieces and finding creative ways to put the puzzled together. The idea that I can create something from scratch—whether it's a small script or a full-scale application—that helps others is incredibly rewarding.
 
-## Let's Work Together!
-
-I'm always open to new opportunities ande challenges. If you're looking for a programmer to help with a project or just want to discuss tech, feel free to reach out to me. Let's create something great together!
+## Let's Work Together! great together!
 
 [Contact me Button or link]
 
 ## A Little About Me
 
 Outside of programming, I'm a proud husband, soldier, and lifelong learner. When I'm nmot coding, you'll likely find me spending quality time with my wife and family. My cat, dog, and snake are my "children" and always keep life interesting. I enjoy drawing from time to time and love playing video games with my wife. We're passionate about traveling and exploring new places, and we never miss a chance to dance!
+
+
+I'm always open to new opportunities ande challenges. If you're looking for a programmer to help with a project or just want to discuss tech, feel free to reach out to me. Let's create something
