@@ -1,0 +1,12 @@
+.portfolio {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 300px, 1fr);
+    gap: 20px;
+}
+
+.project {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+}
