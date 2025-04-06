@@ -4,7 +4,6 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-<h1>My Portfolio</h1>
 <div class="portfolio">
     {% for project in site.projects %}
         <div class="project">
